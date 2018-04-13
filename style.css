@@ -1,0 +1,20 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: gray;
+}
+
+.wrapper{
+  width: 1000px;
+  height: 600px;
+  margin: 10px auto;
+  padding: 10px;
+  background-color: aliceblue;
+}
+
+#canvas{
+  display: block;
+  border: solid 2px black;
+  margin: auto;
+  background-color: LemonChiffon;
+}
